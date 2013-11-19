@@ -1,6 +1,8 @@
 package obspy.evt
 ==================
 
+Version 0.1.0 2013/11/19
+
 Copyright
 ---------
 GNU Lesser General Public License, Version 3 (LGPLv3)
